@@ -53,8 +53,8 @@ RailGuard watches your rail network in real time, detects faults and disruptions
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/your-org/railguard-agent.git
-cd railguard-agent
+git clone https://github.com/mohitsarraf80-ctrl/railguard-system.git
+cd railguard-system
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
